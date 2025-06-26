@@ -1,6 +1,6 @@
-# 👋 Hello, moi c’est Victor !
+# 👋 Salut, moi c’est Victor !
 
-Développeur full-stack spécialisé en React, Next.js & TypeScript, je conçois des applications web modernes, performantes et orientées utilisateur, avec une attention particulière portée au SEO, à l’optimisation et à la qualité du code.
+Développeur full stack spécialisé en React, Next.js & TypeScript, je conçois des applications web modernes, performantes et orientées utilisateur, avec une attention particulière portée au SEO, à l’optimisation et à la qualité du code.
 
 ---
 
@@ -17,8 +17,8 @@ Développeur full-stack spécialisé en React, Next.js & TypeScript, je conçois
 ## 🚀 Ce que je recherche
 
 Je suis ouvert à  :
-- Un **poste en développement front-end** ou **full-stack** (CDI ou alternance)
-- Des **missions freelance** en développement front-end ou full-stack.
+- Un **poste en développement front-end** ou **full stack** (CDI ou alternance)
+- Des **missions freelance** en développement front-end ou full stack.
 
 ---
 
